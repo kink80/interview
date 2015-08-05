@@ -4,10 +4,5 @@
   <artifactId>test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-  	<dependency>
-  		<groupId>org.testng</groupId>
-  		<artifactId>testng</artifactId>
-  		<version>6.9.6</version>
-  	</dependency>
   </dependencies>
 </project>
