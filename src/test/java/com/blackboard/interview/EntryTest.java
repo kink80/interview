@@ -78,7 +78,7 @@ public class EntryTest {
 		Directory kid2 = new Directory();
 		kid2.addChild(new File("file1", 4));
 		kid2.addChild(new File("file2", 5));
-		assertEquals(kid1.getSize(), 9);
+		assertEquals(kid2.getSize(), 9);
 		
 		root.addChild(kid2);
 		assertEquals(root.getSize(), 12);
